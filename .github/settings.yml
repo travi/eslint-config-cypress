@@ -1,0 +1,6 @@
+_extends: .github
+repository:
+  name: eslint-config-cypress
+  description: Shareable config for ESLint for projects that use Cypress
+  homepage: 'https://npm.im/@travi/eslint-config-cypress'
+  private: false
