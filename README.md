@@ -1,5 +1,7 @@
 # eslint-config-cypress
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/travi/eslint-config-cypress.svg)](https://greenkeeper.io/)
+
 [Shareable config](https://eslint.org/docs/developer-guide/shareable-configs#shareable-configs)
 for [ESLint](https://eslint.org) for projects that use [Cypress](https://www.cypress.io)
 
