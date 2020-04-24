@@ -32,6 +32,6 @@
     "travis-lint": "^1.0.0"
   },
   "dependencies": {
-    "@form8ion/eslint-config-cypress": "1.3.13"
+    "@form8ion/eslint-config-cypress": "1.3.14"
   }
 }
