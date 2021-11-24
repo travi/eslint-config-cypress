@@ -20,7 +20,7 @@
     "lint:sensitive": "ban"
   },
   "devDependencies": {
-    "@travi/eslint-config": "1.0.88",
+    "@travi/eslint-config": "1.0.89",
     "ban-sensitive-files": "1.9.16",
     "commitlint-config-travi": "1.4.3",
     "cz-conventional-changelog": "3.3.0",
