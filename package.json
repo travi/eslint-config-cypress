@@ -26,7 +26,7 @@
     "@form8ion/eslint-config-cypress": "1.3.36"
   },
   "devDependencies": {
-    "@travi/eslint-config": "4.0.3",
+    "@travi/eslint-config": "4.0.4",
     "ban-sensitive-files": "1.10.0",
     "commitlint-config-travi": "1.4.35",
     "cz-conventional-changelog": "3.3.0",
